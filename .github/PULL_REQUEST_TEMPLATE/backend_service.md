@@ -1,6 +1,6 @@
 # Description
-This Backend PR includes:
-- Some new feature
+This Backend SERVICE PR includes:
+- Some new super feature
 
 # Type of change
 - [ ] Bug fix (non-breaking change which fixes an issue)
@@ -14,6 +14,6 @@ This Backend PR includes:
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [x] My changes generate no new warnings
-- [] I have added tests that prove my fix is effective or that my feature works
+- [ ] I have added tests that prove my fix is effective or that my feature works
 - [x] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules

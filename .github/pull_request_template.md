@@ -1,5 +1,5 @@
 # Description
-This Frontend PR includes:
+This is the DEFAULT template that includes:
 - Some new feature
 
 # Type of change
